@@ -1,6 +1,18 @@
-djangora
-django.rahim@gmail.com
-useruser1
 
 
-assiaoumi1998mdp abderahim admin
+login admin:
+mot de passe: assiaoumi1998mdp username: abderahim email: sebaaabderahim@gmail.com
+
+
+postgresql logins: 
+username:postgres
+password: abderahim
+
+nom de la base de donnée des prediction : predictiondb
+
+si ya un probleme de login apres l'inscription d'un nouveau utilisateur juste supprimer les cookies avc inspect dans la section application
+
+sinon tu peut toujour te connecter avec les cordonnées de l'admin pour tester la fonctionalité prédiction
+
+
+

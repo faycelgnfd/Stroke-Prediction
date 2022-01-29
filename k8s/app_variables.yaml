@@ -20,4 +20,4 @@ data:
   DB_DATABASE: predictiondb
   DB_USER: abderahim
   DB_HOST: postgres-cluster-ip-service
-  DB_HOST: "5432"
+  DB_PORT: "5432"
